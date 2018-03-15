@@ -1,0 +1,2 @@
+# goProj
+Play with Golang
