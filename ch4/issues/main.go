@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"ch4/github"
+	"goProj/ch4/github"
 )
 
 func main() {
